@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540457515 source:/home/fredy/install/work/basic/file_write/main.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+
